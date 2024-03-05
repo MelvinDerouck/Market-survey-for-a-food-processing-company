@@ -26,6 +26,9 @@ Usage of Hierarchical Clustering (CAH) to explore data structure.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/clusters_kmeans.png)
 
+![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/dendrogram.png)
+
+
 ## Cluster Characterization:
 Comparison of results between Kmeans and CAH using a heatmap.
 Validation of Kmeans results.
