@@ -1,6 +1,6 @@
 # International Market Analysis for Chicken Meat Sales
 
-![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/geomap%20import.png)
+![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/premier%20plan%20factoriel%20avec%20continents.png)
 
 ## Project Overview:
 This project focuses on conducting a comprehensive market analysis for a chicken meat sales company aspiring to expand its operations internationally. Leveraging Python, Principal Component Analysis (PCA), and clustering techniques, the project aims to identify key insights and opportunities in the target markets.
