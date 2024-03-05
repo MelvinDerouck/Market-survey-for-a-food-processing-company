@@ -1,7 +1,5 @@
 # International Market Analysis for Chicken Meat Sales
 
-![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/premier%20plan%20factoriel%20avec%20continents.png)
-
 ## Project Overview:
 This project focuses on conducting a comprehensive market analysis for a chicken meat sales company aspiring to expand its operations internationally. Leveraging Python, Principal Component Analysis (PCA), and clustering techniques, the project aims to identify key insights and opportunities in the target markets.
 
@@ -18,11 +16,15 @@ Reduction of data complexity.
 Selection of two principal components using the "elbow of eigenvalues."
 Visualization of country similarities with the first factorial plane.
 
+![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/premier%20plan%20factoriel%20avec%20continents.png)
+
 ## Clustering Methods:
 Implementation of Kmeans for data partitioning.
 Determination of the optimal number of clusters using the elbow method.
 Cluster characterization with boxplots.
 Usage of Hierarchical Clustering (CAH) to explore data structure.
+
+![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/clusters_kmeans.png)
 
 ## Cluster Characterization:
 Comparison of results between Kmeans and CAH using a heatmap.
