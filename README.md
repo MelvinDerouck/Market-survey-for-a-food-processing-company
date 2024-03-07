@@ -109,11 +109,11 @@ Lighter shades indicating higher numbers. Consensus exists in the "Very Insignif
 ## Scoring and Results:
 In this section, we assign weights to variables to create an ordinal ranking of the 8 countries based on obtained scores and identify the top 3 most relevant countries. Two scenarios are defined for flexibility:
 
-*Eco-Social Scenario:* Higher weights given to distance and population variables. The table reveals the top 3 countries with the highest scores.
+**Eco-Social Scenario:** Higher weights given to distance and population variables. The table reveals the top 3 countries with the highest scores.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/score%20écolo.png)
 
-*Business Scenario:* Higher weights assigned to GDP and imports variables. Germany consistently scores high, and the Netherlands secures the 2nd position in both scenarios. The 3rd position is occupied by the UK in the Eco-Social scenario and Japan in the Business scenario.
+**Business Scenario:** Higher weights assigned to GDP and imports variables. Germany consistently scores high, and the Netherlands secures the 2nd position in both scenarios. The 3rd position is occupied by the UK in the Eco-Social scenario and Japan in the Business scenario.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Market-survey-for-a-food-processing-company/blob/main/Viz/score%20business.png)
 
