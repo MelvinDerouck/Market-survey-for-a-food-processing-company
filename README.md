@@ -15,7 +15,7 @@ Cluster characterization and application of a scoring system in two scenarios to
 ### Data Cleaning:
 Focuses on ensuring data quality for project usability. The files used in the project include:
 
-"disp_alim" file: Information on food imports and exports, food availability by country and type. Filtered for "Poultry Meat."
+"disp_alim" file: Information on food imports and exports, food availability by country and type.
 
 "population" file: Data on the number of inhabitants per country for the year 2017.
 
